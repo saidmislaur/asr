@@ -1,6 +1,5 @@
 {
-    "name": "Asr — время намаза в самом удобном виде",
-    "short_name": "Asr",
+    "name": "Asr",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
